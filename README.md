@@ -21,7 +21,7 @@ The Projet provides various image processing functionalities Such as:
 - Matplotlib.
 - Scipy.
 
-#Screenshots:
+# Screenshots:
 ![image](https://github.com/m-mahmoud-mohamed/Image-processing-project/assets/78882792/d5499cd8-89e0-4e63-bb23-50853b59afd7)
 
 ![image](https://github.com/m-mahmoud-mohamed/Image-processing-project/assets/78882792/c36c4772-123d-4161-9bd3-e659f615c0f8)
