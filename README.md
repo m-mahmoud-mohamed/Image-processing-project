@@ -1,6 +1,6 @@
 # Image-processing-project
 
-#Description:
+# Description:
 This project aim to apply some image processing techniques on Image using python.
 
 The Projet provides various image processing functionalities Such as:
@@ -13,7 +13,7 @@ The Projet provides various image processing functionalities Such as:
 - Applying periodic noise.
 - Applying a Gaussian band- reject filter.
 
-#Used Libraries:
+# Used Libraries:
 - Numpy.
 - Gradio.
 - Tkinter .
